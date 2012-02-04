@@ -1,0 +1,13 @@
+This application will utilize HTML 5 and javascript/jQuery to produce a collaborative remix studio via a web interface.
+
+FEATURES:
+ - Public sample library which can be imported into given projects.
+ - Private sample libraries which can only be accessed by individuals with access to the library.
+ - Users can create projects and invite individuals to join them on projects.
+ - Projects can be public, protected, or private.  Public projects are readonly for all non project members.  Protected projects only allow non project members to hear the final project.  Private are invisible to non project memebers.
+ - Multiple tracks
+
+
+IDEAS:
+ - Allow git-like forking of projects, to build off them?
+ - Introduce positional information for surround sound and multitrack songs.
